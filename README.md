@@ -1,2 +1,2 @@
 # luxury-home-analysis
-What Defines a Luxury Home? An Analysis of Luxury Home Features, Pricing, and Value.
+Analyzing luxury home features,pricing and value using Google Sheets, BigQuery SQL, and Tableau.
