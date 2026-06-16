@@ -44,7 +44,7 @@ What makes a home “luxury,” and where can buyers find the best luxury value?
 - A custom deal score helped identify homes with strong value.
 
 ## Tableau Dashboard
-https://public.tableau.com/shared/ZZGSCHZS4?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/nya.obiefuna/viz/LuxuryRealEstateAnalysis/LuxuryMarketOverview#2
 
 View the cleaned dataset in Google sheets here:
 https://docs.google.com/spreadsheets/d/1UXYFeltI4SftiTUSTPQ51Bukmr-C0yiU_L6qKJ6pA8o/edit?usp=sharing
