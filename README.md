@@ -40,7 +40,7 @@ What makes a home “luxury,” and where can buyers find the best luxury value?
 - California leads the nation with the highest number of luxury homes for sale, reflecting its predominance in the high end real estate market.
 - Montana offers the largest homes by square footage at the lowest price per square foot making it the top value state for buyers seeking space at an aevrgae of 8293 sqft for homes over $1 million.
 - Aspen, Co 81611 ranks as the most expensive zip code in the dataset followed by Beverly Hills 90210, and Midtown Manhattan, 10019
-- Pool is the most common luxury amenity found across high end properties, appearing in more homes than any other feature
+- Pool is the most common luxury amenity found across high end properties, appearing in more homes than any other feature, followed by Chef's kitchen, and Quartz coutertops
 - A custom deal score helped identify homes with strong value.
 
 ## Tableau Dashboard
